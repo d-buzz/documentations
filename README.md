@@ -1,2 +1,2 @@
 # documentations
-documentation collection
+collective documentation resources and writeups
