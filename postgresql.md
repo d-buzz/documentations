@@ -19,10 +19,8 @@ In order to connect to postgresql database remotely we need to tweak postgres co
 ```listen_addresses = '*'```
 
 - Configure pg_hba.conf <br />
-
 ```host    all      all              0.0.0.0/0                    md5 ``` <br />
 ```host    all      all              ::/0                         md5```
 
 - Restart services <br />
-
 ```systemctl restart postgresql.service```
