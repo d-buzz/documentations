@@ -1,6 +1,7 @@
 ## JUSSI CONFIGURATION EXAMPLE
 JUSSI is caching reverse-proxy that sits in front of hive api servers (distributes traffic to hived & hivemind) <br />
-project repository: https://gitlab.syncad.com/hive/jussi
+project repository: https://gitlab.syncad.com/hive/jussi <br />
+```8091: hived, 8092: hivemind```
 
 ```json
 {
