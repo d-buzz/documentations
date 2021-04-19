@@ -9,3 +9,10 @@ Blocklogs using a force replay
   --p2p-endpoint=0.0.0.0:2001 \
   --force-replay
 ```
+
+## Sources
+
+| Stuff  | Link |
+| ------------- | ------------- |
+| Block Logs  | https://gtg.openhive.network/get/blockchain/block_log |
+| Binaries  | https://gtg.openhive.network/get/bin/  |
