@@ -7,3 +7,5 @@
 5. Hived repo - https://gitlab.syncad.com/hive/hive
 6. Jussi repo - https://gitlab.syncad.com/hive/jussi
 7. Run bash inside docker - https://stackoverflow.com/a/33060711
+8. CLI Download Tools - https://www.tecmint.com/axel-commandline-download-accelerator-for-linux/
+
